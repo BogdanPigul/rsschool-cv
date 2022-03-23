@@ -1,4 +1,5 @@
-# Pigul Bogadan
+# https://BogdanPigul.github.io/rsschool-cv/cv
+# Pigul Bogdan
 ## Junior Frontend Developer
 ### Contact info:
 * Phone: 375447006633
