@@ -1,4 +1,4 @@
-#Pigul Bogadan#
+#Pigul Bogadan
 Junior Frontend Developer
 Contact info:
 Phone: 375447006633
