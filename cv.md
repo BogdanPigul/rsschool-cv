@@ -1,4 +1,4 @@
-# https://BogdanPigul.github.io/rsschool-cv/cv
+# [ rsschool-cv ]( https://bogdanpigul.github.io/rsschool-cv/cv )
 # Pigul Bogdan
 ## Junior Frontend Developer
 ### Contact info:
